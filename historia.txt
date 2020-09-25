@@ -1,0 +1,5 @@
+Este es un ejemplo sobre github
+
+texto para ejemplificar una clase
+
+listo, se acabó.
