@@ -2,4 +2,6 @@ Este es un ejemplo sobre github
 
 texto para ejemplificar una clase
 
+Segundo usuario agregado
+
 mañana nos enfocaremos en otra cosa
