@@ -4,6 +4,6 @@ texto para ejemplificar una clase
 
 Segundo usuario agregado
 
-Nuevo usuario
+Nuevo usuario, ejemplo al hacer fork en un proyecto
 
 mañana nos enfocaremos en otra cosa
