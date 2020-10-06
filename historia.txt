@@ -6,4 +6,6 @@ Segundo usuario agregado
 
 Nuevo usuario, ejemplo al hacer fork en un proyecto
 
+Master 1
+
 mañana nos enfocaremos en otra cosa
